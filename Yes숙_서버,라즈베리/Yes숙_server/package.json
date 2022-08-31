@@ -23,7 +23,7 @@
     "mime-types": "^2.1.26",
     "mkdirp": "^1.0.3",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^3.5.3",
     "mongoose": "^5.9.1",
     "mongoose-session": "0.0.4",
